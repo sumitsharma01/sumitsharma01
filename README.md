@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Sharma!
 
-<!--
-**sumitsharma01/sumitsharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Research Assistant & Student**  
+💻 **Tech Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about technology and problem-solving, always eager to learn and take on new challenges. With hands-on experience in designing resilient infrastructures, optimizing cloud solutions, and enhancing network performance, I strive to deliver impactful solutions while constantly acquiring new skills. I strongly value communication and teamwork—because collaboration is the secret ingredient to innovation and success in any project.
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Programming:** Python, Java
+- **Machine Learning:** Deep Learning
+- **Data Engineering:** Scalable data pipelines, ETL, analytics
+
+---
+
+## 🌟 Featured Project
+
+### [xai-anomaly-detection-energy](https://github.com/sumitsharma01/xai-anomaly-detection-energy)
+> Explainable AI for anomaly detection in energy systems.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sumitsharma001/)
+
+---
+
+## 😄 Fun Fact
+
+Why do programmers prefer dark mode?  
+Because light attracts bugs! 🐛
+
+---
+
+> “Always stay curious, keep building, and enjoy the journey!”
