@@ -38,5 +38,3 @@ Why do programmers prefer dark mode?
 Because light attracts bugs! 🐛
 
 ---
-
-> “Always stay curious, keep building, and enjoy the journey!”
