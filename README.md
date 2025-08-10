@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Sharma!
 
-🔬 **Research Assistant & Student**  
+🔬 **Researcher & Student**  
 💻 **Tech Enthusiast | Problem Solver**
 
 ---
