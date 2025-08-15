@@ -36,5 +36,4 @@ I'm passionate about technology and problem-solving, always eager to learn and t
 
 Why do programmers prefer dark mode?  
 Because light attracts bugs! 🐛
-
 ---
