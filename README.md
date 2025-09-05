@@ -2,7 +2,6 @@
 
 🔬 **Researcher & Student**  
 💻 **Tech Enthusiast | Problem Solver**
-
 ---
 
 ## 🚀 About Me
