@@ -23,7 +23,7 @@ I'm passionate about technology and problem-solving, always eager to learn and t
 ### [xai-anomaly-detection-energy](https://github.com/sumitsharma01/xai-anomaly-detection-energy)
 > Explainable AI for anomaly detection in energy systems.
 ### [Incident-Investigation-SRE-Agent](https://github.com/sumitsharma01/Incident-Investigation-SRE-Agent)
-> AI-assisted SRE investigation assistant with human in lood
+> AI-assisted SRE investigation assistant with human in the loop
 ---
 
 ## 🌐 Connect with Me
