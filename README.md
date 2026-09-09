@@ -19,6 +19,8 @@ I'm passionate about technology and problem-solving, always eager to learn and t
 ---
 
 ## 🌟 Featured Project
+### [soloai](https://github.com/sumitsharma01/soloai)
+> SoloAI is the plug-and-play AI control plane for founders who can build software with AI but don't want to become AI infrastructure engineers.
 
 ### [xai-anomaly-detection-energy](https://github.com/sumitsharma01/xai-anomaly-detection-energy)
 > Explainable AI for anomaly detection in energy systems.
