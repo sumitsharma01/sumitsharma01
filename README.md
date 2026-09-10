@@ -1,5 +1,11 @@
 # 💫 About Me
+---
 
+### ⚡ Current Focus
+
+`Building SoloAI` · `Agentic AI` · `Azure AI` · `MLOps` · `AI Observability` · `Explainable AI` · `Reliable AI Systems`
+
+---
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumitsharma001/)
 
@@ -194,12 +200,4 @@ For me, the interesting engineering happens where **AI, reliability, infrastruct
 
 ---
 
-### ⚡ Current Focus
-
-`Building SoloAI` · `Agentic AI` · `Azure AI` · `MLOps` · `AI Observability` · `Explainable AI` · `Reliable AI Systems`
-
----
-
 *Turning machine learning experiments into systems you can actually operate.*
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
