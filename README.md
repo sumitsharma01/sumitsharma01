@@ -3,7 +3,7 @@
 
 ### ⚡ Current Focus
 
-`Building SoloAI` · `Agentic AI` · `Azure AI` · `MLOps` · `AI Observability` · `Explainable AI` · `Reliable AI Systems`
+`Building SoloAI` · `Agentic AI` · `Cloud(AWS/Azure/GCP)`· `MLOps` · `AI Observability` · `SRE` · `Reliable AI Systems` · `Observability`
 
 ---
 ## 🌐 Socials
