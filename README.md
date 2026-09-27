@@ -29,20 +29,6 @@ I’m particularly interested in applying AI to **energy, healthcare, scientific
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=sumitsharma01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# Hi, I'm Sumit Sharma
-### AI/ML · MLOps · Site Reliability Engineering · Cloud Infrastructure
-📍 Berlin, Germany
-
-I’m an **AI/ML and Site Reliability Engineer** interested in building intelligent systems that are not only powerful in a notebook, but **reliable, observable, explainable, and useful in production**.
-
-My background sits at the intersection of **machine learning, distributed systems, cloud infrastructure, data engineering, and SRE**. I enjoy working across the full lifecycle of a system — from data pipelines and model experimentation to APIs, Kubernetes, infrastructure-as-code, observability, and production reliability.
-
-I’m particularly interested in applying AI to **energy, healthcare, scientific systems, and developer infrastructure**, where reliability, explainability, privacy, and human oversight actually matter.
-
----
-
 ## 🚀 What I'm Building
 
 ### 🤖 SoloAI
