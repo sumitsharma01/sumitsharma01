@@ -13,7 +13,7 @@ I’m particularly interested in applying AI to **energy, healthcare, scientific
 ---
 ### ⚡ Current Focus
 
-`Building SoloAI` · `Agentic AI` · `Cloud(AWS/Azure/GCP)`· `MLOps` · `AI Observability` · `SRE` · `Reliable AI Systems` · `Observability`
+`YodaX` `Building SoloAI` · `Agentic AI` · `Cloud(AWS/Azure/GCP)`· `MLOps` · `AI Observability` · `SRE` · `Reliable AI Systems` · `Observability`
 
 ---
 ## 🌐 Socials
