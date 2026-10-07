@@ -1,19 +1,19 @@
 # 💫 About Me
 ---
-# Hi, I'm Sumit Sharma
-### AI/ML · MLOps · Site Reliability Engineering · Cloud Infrastructure
+# Hi, I'm Sumit Sharma 👋
+
+### SRE · ML/AI Infrastructure · Data & Cloud Platforms
+
 📍 Berlin, Germany
 
-I’m an **AI/ML and Site Reliability Engineer** interested in building intelligent systems that are not only powerful in a notebook, but **reliable, observable, explainable, and useful in production**.
+I build and operate production systems across **infrastructure, reliability, data, and machine learning**.
 
-My background sits at the intersection of **machine learning, distributed systems, cloud infrastructure, data engineering, and SRE**. I enjoy working across the full lifecycle of a system — from data pipelines and model experimentation to APIs, Kubernetes, infrastructure-as-code, observability, and production reliability.
-
-I’m particularly interested in applying AI to **energy, healthcare, scientific systems, and developer infrastructure**, where reliability, explainability, privacy, and human oversight actually matter.
+My work focuses on the engineering around intelligent systems — **data pipelines, deployment, observability, evaluation, infrastructure, and production reliability**.
 
 ---
 ### ⚡ Current Focus
 
-`YodaX` `Building SoloAI` · `Agentic AI` · `Cloud(AWS/Azure/GCP)`· `MLOps` · `AI Observability` · `SRE` · `Reliable AI Systems` · `Observability`
+`LibreSRE` `YodaX` `Building SoloAI` · `Agentic AI` · `Cloud(AWS/Azure/GCP)`· `MLOps` · `AI Observability` · `SRE` · `Reliable AI Systems` · `Observability`
 
 ---
 ## 🌐 Socials
@@ -29,171 +29,89 @@ I’m particularly interested in applying AI to **energy, healthcare, scientific
 
 ---
 
-## 🚀 What I'm Building
 
-### 🤖 SoloAI
+## 🚀 Selected Work
 
-**AI infrastructure without turning every development team into an AI infrastructure team.**
+### 📈 [YodaX](https://github.com/sumitsharma01/YodaX)
 
-[github.com/sumitsharma01/soloai](https://github.com/sumitsharma01/soloai)
+**Time-Series Forecasting & AI-Assisted Market Research**
 
-I'm currently building **SoloAI**, an Azure-oriented SaaS control plane for connecting existing applications to small, permission-limited AI teams.
+YodaX forecasts the next trading day's closing price for six US stocks using **Google TimesFM 2.5** and evaluates saved predictions against actual market closes.
 
-Applications can remain on **AWS, Vercel, Azure, or existing infrastructure**, while SoloAI provides the AI control plane for configuring agents, business context, permissions, and model access.
+An experimental learning layer uses completed predictions to adjust future estimates without retraining the underlying model.
 
-**Connect App → Choose Agent → Add Business Guidance → Review Permissions → Turn On**
+**Future Market** extends the project with a Gemini-powered commodity research assistant that analyzes recent news, follows unresolved questions, and builds linked evidence maps.
 
-Current engineering interests around SoloAI include:
-
-- Agentic AI architectures
-- Azure AI / Foundry
-- Permission-aware AI agents
-- Multi-tenant SaaS architecture
-- Secure model gateways
-- AI observability and evaluation
-- Human-in-the-loop workflows
-- Infrastructure as Code
+`Time-Series Forecasting` · `Evaluation Pipelines` · `Prediction Tracking` · `Feedback Loops` · `TimesFM` · `Gemini`
 
 ---
 
-## 🔬 Projects & Research
+### 🤖 [SoloAI](https://github.com/sumitsharma01/soloai)
 
-### ⚡ Explainable Anomaly Detection for Energy Systems
+**AI Infrastructure & Agent Control Plane**
 
-[xai-anomaly-detection-energy](https://github.com/sumitsharma01/xai-anomaly-detection-energy)
+A control plane for connecting applications to permission-aware AI agents while keeping application infrastructure independent.
 
-Research and engineering around **real-time anomaly detection for electricity consumption data** using classical ML, deep learning, and Explainable AI.
+Focuses on **multi-tenant architecture, model access, agent permissions, observability, evaluation, and infrastructure automation**.
 
-Built and evaluated:
+`AI Infrastructure` · `Agentic Systems` · `Multi-Tenancy` · `Model Gateways` · `Observability` · `IaC` · `Azure`
+
+---
+
+### 🚨 [LibreSRE](https://github.com/sumitsharma01/Incident-Investigation-SRE-Agent)
+
+**AI-Assisted SRE Incident Investigation**
+
+Explores how AI can assist engineers during production incidents by correlating telemetry, surfacing hypotheses, and supporting structured troubleshooting while keeping humans in control.
+
+`SRE` · `Observability` · `Incident Response` · `Telemetry` · `Agentic AI` · `Root Cause Analysis`
+
+---
+
+### ⚡ [Explainable Anomaly Detection](https://github.com/sumitsharma01/xai-anomaly-detection-energy)
+
+**Explainable ML for Energy Systems**
+
+Anomaly detection for electricity consumption data using classical machine learning, deep learning, and explainability techniques.
 
 `PyTorch` · `CNNs` · `Autoencoders` · `Isolation Forest` · `LOF` · `SHAP` · `LIME`
 
-The project explores an important question:
+---
 
-> How can we build anomaly detection systems that are accurate enough for production while remaining understandable to the humans relying on their decisions?
+## 🛠️ Engineering Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · Go · SQL · Bash · Java |
+| **Cloud** | AWS · Azure · GCP |
+| **Infrastructure** | Kubernetes · Docker · Terraform · OpenTofu · Linux |
+| **Observability** | Prometheus · Grafana · Datadog |
+| **Data** | PostgreSQL · Databricks · Pandas · Polars · ETL/ELT |
+| **ML / AI** | PyTorch · Scikit-learn · LLMs · RAG · Agentic AI |
+| **Backend** | FastAPI · REST APIs |
+| **CI/CD** | GitHub Actions · GitLab CI |
 
 ---
 
-### 🚨 AI-Assisted SRE Incident Investigation
+## ⚙️ Engineering Focus
 
-[Incident-Investigation-SRE-Agent](https://github.com/sumitsharma01/Incident-Investigation-SRE-Agent)
+My background spans **enterprise infrastructure, HPC, Linux, networking, cloud systems, and Site Reliability Engineering**.
 
-An experiment in combining **SRE practices with agentic AI** to assist engineers during production incidents.
+Today, I work across the intersection of:
 
-The goal is not to replace the engineer making operational decisions, but to reduce investigation time by helping correlate telemetry, surface hypotheses, and guide structured troubleshooting while keeping a **human in the loop**.
+**Site Reliability Engineering** · **Platform Engineering** · **MLOps** · **ML Infrastructure** · **Data Engineering** · **Cloud Infrastructure**
 
----
-
-## 🧠 Engineering Interests
-
-I enjoy problems where **AI meets real production infrastructure**.
-
-My current areas of interest include:
-
-**AI & Machine Learning**  
-Deep Learning · LLMs · RAG · Agentic Systems · Model Evaluation · Explainable AI · Computer Vision · Model Fine-Tuning
-
-**MLOps & AI Infrastructure**  
-Model Deployment · ML Observability · Evaluation Pipelines · AI Guardrails · Vector Databases · Production ML Systems
-
-**Cloud & Platform Engineering**  
-AWS · Azure · GCP · Kubernetes · Docker · Terraform · OpenTofu · CI/CD · Distributed Systems
-
-**Site Reliability Engineering**  
-Observability · Prometheus · Grafana · Datadog · SLI/SLO · Incident Response · Linux · Reliability Engineering
-
-**Data Engineering**  
-Python · SQL · PostgreSQL · ETL · Pandas · Polars · Databricks · Data Validation · Feature Engineering
-
----
-
-## 🛠️ Technology Stack
-
-```text
-Languages        Python · Go · Java · Bash · SQL
-
-AI / ML         PyTorch · TensorFlow · Scikit-learn · SHAP
-                 LLMs · RAG · Agentic AI · Model Evaluation
-
-Cloud           Azure · AWS · GCP
-
-Infrastructure  Kubernetes · Docker · Terraform · OpenTofu
-
-Observability   Prometheus · Grafana · Datadog
-
-Data            PostgreSQL · Pandas · Polars · Databricks · ETL
-
-Backend         FastAPI · REST APIs
-
-DevOps          GitHub Actions · GitLab CI · Git · Linux
-```
-
----
-
-## 🏗️ From Infrastructure to Intelligent Systems
-
-My engineering journey started with **enterprise infrastructure, HPC, Linux, networking, and production operations**.
-
-I later moved deeper into **Site Reliability Engineering**, working on cloud networking, observability, infrastructure automation, incident response, and highly available systems.
-
-Today, I combine that production engineering background with **AI/ML, MLOps, data engineering, and agentic systems**.
-
-That combination shapes how I approach AI:
-
-**A model working is only the beginning.**
-
-I care about what happens when it becomes a real system:
-
-`How is it deployed?`  
-`How is it evaluated?`  
-`How do we observe it?`  
-`What happens when it fails?`  
-`Can humans understand its decisions?`  
-`What permissions should an agent actually have?`  
-`How do we operate it reliably at scale?`
-
----
-
-## 🌍 Areas I'd Love to Collaborate On
-
-I'm always interested in meeting engineers, researchers, founders, and open-source contributors working on meaningful technical problems.
-
-I'm especially interested in collaborations involving:
-
-⚡ **Energy & Climate Tech** — anomaly detection, forecasting, smart grids, energy optimization, explainable ML
-
-🏥 **Healthcare AI** — privacy-aware AI systems, clinical data infrastructure, explainable AI, human-in-the-loop workflows
-
-🤖 **AI Agents** — agent orchestration, permissions, evaluation, observability, RAG, trustworthy agentic systems
-
-🛡️ **AI × SRE** — incident investigation, intelligent observability, root-cause analysis, operational automation
-
-☁️ **Cloud & MLOps** — Kubernetes, distributed systems, ML platforms, model serving, infrastructure automation
-
-🔬 **Applied AI Research** — taking interesting ML research beyond experiments and turning it into reliable systems
-
-If you're building something interesting in one of these areas, **I'd be happy to exchange ideas, contribute, experiment, or build together.**
-
----
-
-## 🎯 Engineering Philosophy
-
-> **Build intelligent systems that humans can understand, operators can trust, and infrastructure can reliably run.**
-
-I like technology that solves difficult real-world problems rather than technology built purely for the demo.
-
-For me, the interesting engineering happens where **AI, reliability, infrastructure, and human decision-making intersect**.
+I'm particularly interested in the engineering required to make **data and ML systems observable, scalable, explainable, and reliable in production**.
 
 ---
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/sumitsharma001/)
-
-💻 **GitHub:** [@sumitsharma01](https://github.com/sumitsharma01)
-
-💬 Interested in **AI/ML, MLOps, SRE, Energy Tech, Healthcare AI, or open-source collaboration?** Feel free to reach out.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Sharma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma001/)
+[![GitHub](https://img.shields.io/badge/GitHub-sumitsharma01-181717?logo=github&logoColor=white)](https://github.com/sumitsharma01)
 
 ---
+
+> **Build intelligent systems that humans can understand, operators can trust, and infrastructure can reliably run.**
 
 *Turning machine learning experiments into systems you can actually operate.*
