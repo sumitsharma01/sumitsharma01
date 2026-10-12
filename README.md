@@ -94,7 +94,7 @@ My background spans **enterprise infrastructure, HPC, Linux, networking, cloud s
 
 Today, I work across the intersection of:
 
-**Site Reliability Engineering** · **Platform Engineering** · **MLOps** · **ML Infrastructure** · **Data Engineering** · **Cloud Infrastructure**
+**Agentic AI** **Site Reliability Engineering** · **Platform Engineering** · **MLOps** · **ML Infrastructure** · **Data Engineering** · **Cloud Infrastructure**
 
 I'm particularly interested in the engineering required to make **data and ML systems observable, scalable, explainable, and reliable in production**.
 
